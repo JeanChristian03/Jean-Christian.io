@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import '../styles/Hero.css';
 
 const Hero = () => {
   const containerVariants = {

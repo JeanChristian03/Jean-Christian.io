@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import '../styles/Footer.css';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -111,8 +110,8 @@ const Footer = () => {
       >
         <p>&copy; {currentYear} Jean Christian. Tous droits réservés.</p>
         <p>
-          <a href="#">Politique de confidentialité</a> |
-          <a href="#">Mentions légales</a>
+          <a href="/">Politique de confidentialité</a> |
+          <a href="/">Mentions légales</a>
         </p>
       </motion.div>
     </motion.footer>

@@ -2,7 +2,7 @@
   "name": "Jean-Christian.io",
   "version": "1.0.0",
   "description": "Portfolio personnel dynamique de Jean Christian avec React",
-  "homepage": "https://JeanChristian03.github.io",
+  "homepage": "https://JeanChristian03.github.io/Jean-Christian.io",
   "private": false,
   "dependencies": {
     "react": "^18.2.0",
